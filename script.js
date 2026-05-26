@@ -1101,7 +1101,7 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
   time: "",
   likes: "",
   image: "images/prompt9.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  prompt: `Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smile actions (uploaded photo 100% Face match) of A stylish handsome young man (refrence image given) with a slightly dark messy hairstyle. He hold a Canon camera, He is looking thoughtfully off-canmera, captured in a candid, high-key cinematic outdoor portrait The composition is Framed by a branch of vivid wear a black and white gradient collored shirt.wear neck gold chain . Wear black sunglasses. Give portrait image.`
 },
 
 {
@@ -1109,7 +1109,7 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
   time: "",
   likes: "",
   image: "images/prompt10.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  prompt: `Ratio 4:5, Double exposure watercolor splash poster art of a stylish me, one large close-up portrait in background and one full-body fashion pose in foreground, vibrant watercolor paint splashes in orange blue tones, cinematic lighting, ultra realistic face details, soft glowing skin dreamy aesthetic, modern fashion editorial style, realistic digital painting mixed with watercolor illustration, elegant typography space at bottom, depth, artistic ink texture, luxury Instagram poster,`
 },
 
 {
