@@ -508,7 +508,7 @@ NEGATIVE PROMPT: blurry image, low quality, distorted anatomy, fake painting tex
 
   },
 
-  
+
   {
     username: "Rushi",
     time: "",
@@ -1122,7 +1122,103 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
     time: "",
     likes: "",
     image: "images/prompt11.png",
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
+
+Create an ultra-premium monochrome fashion poster in vertical 4:5 ratio with pro-level studio editing, luxury editorial aesthetics, and world-class DSLR-quality realism designed for viral Instagram engagement.
+
+MAIN SUBJECT:
+• Standing confidently in center frame
+• Slight body turn sideways naturally
+• One hand adjusting collar softly
+• Other hand inside pocket
+• Head slightly tilted downward
+• Looking toward camera with calm ego expression
+• Relaxed luxury masculine posture
+• Powerful aura-farming body language
+• Messy fringe hairstyle with realistic texture
+• Face ultra sharp and highly detailed
+
+OUTFIT:
+• Oversized matte-black luxury shirt
+• Black fitted trousers
+• White sneakers for subtle contrast
+• Thin silver chain
+• Premium metallic watch
+• Hyper-realistic fabric folds and stitching
+• Soft glossy reflections on outfit edges
+
+MONOCHROME COLLAGE EFFECT:
+• Massive monochrome close-up portrait behind main subject
+• Different semi-transparent monochrome versions floating in background
+• Side-profile portrait
+• Looking downward pose
+• Walking candid silhouette
+• Soft blurred monochrome layers
+• Premium studio poster composition
+• Smooth layered editorial depth
+
+BACKGROUND:
+• Ultra-realistic dark grey-black studio environment
+• Soft gradient backdrop
+• Professional photography studio realism
+• Rich HDR environmental depth
+• Strong high-contrast shadows
+• Luxury editorial atmosphere
+• Smooth smoky depth
+• Background enhanced like premium 20MB DSLR capture
+• Clean monochrome color grading
+• Strong realistic light interaction
+
+VIRAL VISUAL ELEMENTS:
+• Floating white dust particles
+• Soft smoke ribbons
+• Glossy monochrome reflections
+• White glowing edge light around silhouette
+• Minimal floating shards
+• Cinematic studio haze
+• Light bloom reflections
+• Dreamy layered depth
+• Premium shadow textures
+• Smooth vignette edges
+
+LIGHTING:
+• Professional high-end studio lighting
+• Strong white rim light behind subject
+• Soft beauty light on face
+• HDR realistic contrast
+• Ultra-realistic skin highlights
+• Deep cinematic shadow gradients
+• Premium editorial lighting setup
+• Strong monochrome depth lighting
+• Sharp glossy reflections on outfit
+
+CAMERA & DEPTH:
+• Nikon Z9 DSLR simulation
+• 85mm f/1.2 studio portrait lens
+• Slight low-angle fashion shot
+• Razor-sharp facial detailing
+• Crystal-clear skin texture
+• Ultra creamy background blur
+• Strong foreground-background separation
+• Professional luxury composition
+• DSLR-quality clarity and sharpness
+
+PHOTO EDITING STYLE:
+• Luxury monochrome editorial poster
+• Premium Photoshop compositing
+• Viral Instagram fashion aesthetic
+• High-end magazine-cover editing
+• Ultra-clean premium retouching
+• Hyper-realistic skin enhancement
+• Smooth professional blending
+• Pinterest-worthy luxury realism
+• Studio-quality fashion photography
+
+QUALITY:
+Ultra-realistic 8K masterpiece, world-class DSLR-quality clarity, hyper-detailed skin texture, realistic pores, crystal-clear eyes, premium HDR lighting, extreme sharpness, ultra-HD environmental detail, professional monochrome color grading, polished luxury aesthetic, noise-free image, maximum realism and depth, 20MB-quality professional photography appearance.
+
+NEGATIVE PROMPT:
+blurry image, low quality, distorted anatomy, fake monochrome effect, unrealistic lighting, oversaturated shadows, duplicate body parts, noisy textures, watermark, text artifacts, low-detail background, fake skin texture`
   },
 
   {
