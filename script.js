@@ -853,7 +853,37 @@ artifacts, fake shadows`
   time: "",
   likes: "",
   image: "images/prompt6.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged - preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background, motion, outfit and atmosphere.
+
+The subject stands casually at the edge of a sun-drenched luxury villa terrace one hand resting lightly on a white marble railing - body turned 3/4 toward camera - head tilted slightly - chin raised with a relaxed powerful confidence - eyes gazing softly into the far golden horizon with a calm unbothered expression - like a man who woke up rich and has nowhere to rush.
+
+Wearing a premium cream linen open-collar shirt - sleeves rolled to elbow-top two buttons open - slim beige tailored chinos with sharp crease - tan leather loafers with no socks - minimalist gold bracelet on right wrist - automatic dress watch on left wrist. Linen fabric rendered with hyper-real thread texture - natural wind movement causing soft fabric flutter at hem.
+
+Background: a breathtaking Mediterranean coastal villa at golden hour infinity pool edge visible at left glowing turquoise - olive trees swaying softly in warm breeze - terracotta floor tiles warm in sunset glow the Amalfi coastline stretching infinitely into the glittering golden sea- sky painted in layers of deep amber, coral, and rose gold.
+
+FILTER APPLIED - GOLDEN HOUR FILM FILTER:
+
+lifted shadow Kodak Portra 400 film emulation warm golden base tone blacks to deep amber - highlights blown softly to creamy gold - subtle film grain at 15% - skin tones rendered in warm peachy bronze - slight magenta bleed in shadow areas - halation glow around bright edges faded highlights creating timeless film aesthetic contrast pulled down 10% for dreamy softness - golden vignette pressing in from corners.
+
+Visual effects: floating golden bokeh orbs drifting lazily across frame.
+
+Warm lens flare bleeding from top right corner. Soft atmospheric haze over distant sea. Olive tree leaves catching light individually. Pool water shimmer reflecting amber sunset. Subtle film burn at top edge. Dust particles floating in warm air. Foreground marble railing texture sharp with soft shadow.
+
+Lighting: direct golden sunset as primary backlight - full body amber
+
+rim glow. Warm reflected light bouncing off marble terrace floor illuminating face from below. Soft diffused fill from open sky above. Natural catch lights in eyes from horizon. Color grade: Kodak Portra warm film tone - amber shadows, creamy highlights, bronze skin midtones.
+
+Shot on Canon EOS R5 with Canon RF 85mm f/1.2L USM DS lens.
+
+Aperture f/1.4. ISO 400. Shutter 1/1000s. 9:16 vertical format. Subject sharp. Background soft creamy bokeh. Foreground railing texture in sharp focus.
+
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, Kodak Portra 400 film emulation, warm golden color grade, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image,
+
+scroll-stopping visual impact.
+
+Negative Prompt:
+
+altered face, changed hairstyle, different skin tone, cool blue tones, desaturated image, harsh shadows, overexposed highlights, cartoon style, low quality, blurry subject, distorted anatomy, watermark, flat lighting, amateur photography, plastic skin, bad composition, lifeless expression, digital noise, artificial colors, stock photo feel`
 },
 
 {
@@ -861,7 +891,91 @@ artifacts, fake shadows`
   time: "",
   likes: "",
   image: "images/prompt7.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  prompt: `You are a world-class cinematic lifestyle photographer, luxury Al visual artist, and elite Photoshop compositor.
+
+Follow ALL instructions precisely.
+
+TASK:
+
+Create an ultra-realistic cinematic double-exposure portrait in 4:5 vertical ratio, designed like a luxury outdoor fashion campaign with emotional storytelling and premium DSLR realism.
+
+SUBJECT: Use uploaded face with 100% facial accuracy. Young Indian male with attractive masculine facial features, natural hairstyle, calm luxury aura.
+
+MAIN
+
+SUBJECT: Full-body visible Standing naturally in a realistic golden grass field.
+
+One hand inside pocket.
+
+Other hand loosely
+
+holding shirt collar Looking slightly away from camera Soft confident expression. Relaxed natural body posture
+
+OUTFIT:
+
+Oversized dusty-rose linen shirt with rolled sleeves. Crisp white trousers
+
+Clean white sneakers.
+
+Minimal silver chain and watch Highly realistic fabric folds and textures
+
+BACKGROUND PORTRAIT: Massive semi-transparent close-up portrait of same subject behind. No sunglasses .
+
+Looking upward thoughtfully Natural emotional expression Hair softly moving in wind Smooth realistic
+
+blending into background atmosphere
+
+REALISTIC
+
+BACKGROUND: Authentic outdoor meadow during sunset. Natural trees softly blurred. Warm
+
+sunlight filtering through grass
+
+Cinematic shallow depth atmosphere
+
+Realistic clouds in sky
+
+DSLR outdoor
+
+photography look
+
+VIRAL
+
+VISUAL ELEMENTS: White glowing leaves falling softly
+
+Floating pollen particles illuminated by sunlight.
+
+Soft
+
+fog layers near ground. Tiny glowing butterflies. Warm cinematic dust particles
+
+Light breeze moving grass
+
+naturally. Soft dreamy bokeh circles
+
+LIGHTING: Warm golden-hour cinematic lighting Soft sunlight glow on face
+
+Balanced HDR exposure Smooth
+
+realistic shadows Volumetric sunlight rays through trees Natural skin highlights.
+
+Soft bloom around bright areas
+
+Premium brightness balance
+
+CAMERA & DEPTH: Nikon Z9 DSLR simulation 85mm f/1.2 portrait lens. Razor-sharp focus on face Ultra creamy cinematic background blur Foreground grass softly blurred naturally
+
+. Strong subject separation
+
+PHOTO EDITING STYLE: Luxury editorial photography Warm cinematic color grading Natural realistic skin
+
+texture High dynamic range rendering. Premium outdoor photoshoot aesthetic Smooth tonal transitions
+
+QUALITY: High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, film grain removed, deep color depth, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric
+
+lighting, HDR
+
+NEGATIVE PROMPT: blurry face, fake background, cartoon atmosphere, distorted anatomy, low quality, oversaturated colors, noisy image, watermark, ratio not matched`
 },
 
 {
