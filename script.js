@@ -1,0 +1,1148 @@
+const prompts = [
+
+  {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: " ",
+
+    image: "images/prompt1.png",
+
+    prompt:`LUXURY SUNSET SCRAPBOOK COLLAGE
+
+Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting.
+
+Allow changes only in camera position, background motion, outfit and atmosphere. Ratio 4:5
+
+Create an emotional scrapbook-style collage poster with golden sunset tones and dreamy luxury atmosphere.
+
+MAIN SUBJECT:
+
+Sitting on wooden stool
+
+One elbow on knee
+
+Looking far away emotionally
+
+Relaxed soft smile
+
+OUTFIT:
+
+Beige oversized shirt
+
+White trousers
+
+Brown loafers
+
+BACKGROUND:
+
+Warm sunset field
+
+Huge faded portrait in sky
+
+Torn-paper collage layers
+
+Floating photo frames
+
+VIRAL ELEMENTS:
+
+Golden leaves falling
+
+Lens flare bloom
+
+Dust particles
+
+Soft fog
+
+Vintage paper textures
+
+TEXT:
+
+"LOST IN DREAMS"
+
+COLOR:
+
+Beige, sunset orange, cream, gold`
+
+  },
+
+  {
+
+    username: "Rushi",
+
+    time: "1d",
+
+    likes: " ",
+
+    image: "images/prompt2.png",
+
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
+
+Create an ultra-premium cinematic collage portrait poster in vertical 4:5 ratio with luxury Instagram aesthetics, bold typography design, and ultra-realistic BK DSLR-
+
+quality rendering designed for viral engagement.
+
+MAIN SUBJECT:
+
+walking forward, one step ahead, looking forward
+
+Relaxed stylish masculine posture
+
+Slight candid body angle
+
+Powerful youthful aura
+
+Foreground subject ultra sharp and colorful
+
+OUTFIT:
+
+Premium blue-white patterned shirt
+
+Sleeves folded naturally
+
+Matte black trousers
+
+White sneakers
+
+Thin metallic watch
+
+Realistic fabric folds and textures
+
+Luxury casual styling
+
+COLLAGE COMPOSITION:
+
+3 large vertical portrait panels behind subject
+
+Each panel contains different monochrome versions of same person
+
+soft smile
+
+Different expressions in each frame:
+
+hand touching neck
+
+side-profile candid pose
+
+Panels slightly tilted dynamically
+
+Thin white glowing panel borders
+
+Professional scrapbook layering depth
+
+BACKGROUND:
+
+Deep charcoal-black textured atmosphere
+
+Artistic black brushstroke textures
+
+Rough paint splash effects
+
+Soft smoky cinematic environment
+
+Strong depth layering
+
+Luxury urban-poster mood
+
+TYPOGRAPHY:
+
+Massive bold neon-pink 3D text behind foreground subject:
+
+"VEDANT
+
+Thick modern grunge font
+
+Slight shadow extrusion
+
+Glossy neon glow reflections
+
+Text partially hidden behind subject naturally
+
+VIRAL VISUAL ELEMENTS:
+
+High-end Instagram poster style
+
+Floating black paint particles
+
+White dust sparks
+
+Neon pink smoke gloww
+
+Brush texture overlays
+
+Soft cinematic haze
+
+Smooth vignette edges
+
+Tiny glowing particles
+
+Luxury bloom reflections
+
+Glossy edge highlights
+
+LIGHTING:
+
+Soft front beauty Fighting
+
+Strong pink rim glow from background text
+
+HDR realistic contrast
+
+Bright premium exposure balance
+
+Smooth shadow gradients
+
+Slight cool white edge light
+
+Luxury editorial studio lighting
+
+CAMERA & DEPTH:
+
+Nikon 29 DSLR simulation
+
+85mm f/1.2 portrait lens
+
+Ultra creamy cinematic background blur
+
+Razor-sharp facial detailing
+
+Strong foreground-background separation
+
+Professional collage depth layering
+
+DSLR-quality realism
+
+PHOTO EDITING STYLE:
+
+Luxury cinematic collage poster
+
+Premium Photoshop compositing
+
+High-end Instagram reel-cover design
+
+Modern street-fashion editorial aesthetic
+
+Smooth premium retouching
+
+Ultra-clean masking and blending
+
+Cinematic masculine storytelling
+
+COLOR PALETTE:
+
+Charcoal black atmosphere Neon pink highlights
+
+White monochrome contrast
+
+Cool blue outfit tones
+
+Smooth cinematic harmony
+
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, deep color depth, professionally color
+
+QUALITY
+
+graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image.
+
+NEGATIVE PROMPT:
+
+female subject, blurry image, low quality, distorted anatomy, fake brush textures, cartoon look, oversaturated colors, duplicate body parts, noisy textures, watermark,
+
+text artifacts
+
+
+
+Use my name Rushi`
+
+  },
+
+  {
+
+    username: "Rushi",
+
+    time: " ",
+
+    likes: " ",
+
+    image: "images/prompt3.png",
+
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes
+
+only in camera position, background motion, outfit and atmosphere.
+
+Create an ultra-premium cinematic fashion portrait poster in vertical 4:5 ratio with luxury artistic aesthetics, emotional editorial storytelling, and world-class DSLR-quality realism designed for viral Instagram engagement.
+
+MAIN SUBJECT: Leaning casually against massive textured white wall. One leg crossed naturally against wall. attractive expression Relaxed luxury masculine posture Strong aura-farming body language Natural candid
+
+One hand inside pocket Other hand touching wall softly. Looking sideways slightly downward with calm
+
+fashion pose
+
+Premium white sneakers. Thin
+
+OUTFIT: Stylish oversized white shirt with rolled sleeves Slim-fit grey jeans silver chain. Luxury metallic watch Hyper-detailed realistic fabric folds
+
+Soft glossy reflections on outfit edges
+
+WALL ART CONCEPT: Massive ultra-beautiful realistic painting of same person on white wall Painting styled like luxury watercolor-oil portrait fusion Elegant artistic brush textures Rich cinematic facial detailing. Soft paint drips flowing downward naturally Premium gallery-style mural aesthetic
+
+highlights
+
+Painting glowing softly with artistic
+
+FALLING PORTRAIT EFFECT:
+
+Multiple floating portrait frames falling around subject. Each frame contains
+
+different poses of same person: side-profile portrait hands-in-pocket pose close-up emotional portrait sitting candid pose smiling fashion pose. Some frames motion blurred naturally. Some sharp and floating in foreground
+
+Torn-paper edge textures around portraits Dynamic scrapbook
+
+-style movement
+
+BACKGROUND: Ultra-realistic luxury white-wall environment Strong high-contrast realistic lighting Soft cinematic shadows on wall Premium editorial studio atmosphere
+
+Creamy DSLR depth separation.
+
+Rich HDR
+
+environmental detail High-end art-gallery realism Smooth luxury color grading
+
+Background enhanced like
+
+professional 20MB DSLR capture
+
+VIRAL VISUAL ELEMENTS: Floating white paper fragments. Tiny glowing dust particles Soft cinematic smoke
+
+Luxury bloom
+
+haze White glowing leaf particles falling Artistic paint splash textures Glossy light reflections
+
+lighting Soft vignette around edges Dreamy floating atmosphere
+
+LIGHTING: High-contrast cinematic daylight lighting. Strong realistic wall-shadow interaction. on face HDR realistic contrast Glossy skin highlights. Ultra-premium exposure balance Smooth shadow
+
+Soft beauty light
+
+gradients Soft rim light around body edges Professional luxury editorial lighting setup
+
+CAMERA & DEPTH: Nikon Z9 DSLR simulation 85mm f/1.2 portrait lens Slight low-angle fashion shot Razor-sharp facial detailing Crystal-clear skin texture Ultra creamy cinematic background blur. Strong foreground-
+
+background separation
+
+Professional fashion composition
+
+PHOTO EDITING STYLE: Luxury artistic fashion poster Premium Photoshop compositing. Viral Instagram editorial design Cinematic scrapbook aesthetics High-end gallery artwork realism. Ultra-clean premium retouching Smooth realistic blending Pinterest-worthy luxury composition
+
+QUALITY: Ultra-realistic 8K masterpiece, world-class DSLR-quality clarity, hyper-detailed skin texture, crystal-clear eyes, premium HDR lighting, extreme sharpness, realistic paint textures, ultra-HD environmental detail, cinematic color grading, polished luxury aesthetic, noise-free image, maximum realism and depth, 20MB-quality professional
+
+capture appearance.
+
+NEGATIVE PROMPT: blurry image, low quality, distorted anatomy, fake painting texture, cartoon look, oversaturated colors, duplicate body parts, noisy textures, watermark, text artifacts, unrealistic lighting, low-detail background`
+
+  },
+
+  {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/Romantic.png",
+
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create a dreamy romantic animated couple illustration in vertical 4:5 ratio with emotional cinematic storytelling, soft anime realism, and ultra-premium night aesthetic inspired by Studio Ghibli and
+
+modern Pinterest romantic art.
+
+COUPLE COMPOSITION:
+
+Three stacked cinematic frames inside one single image
+
+Top frame shows close-up side profile of male looking softly downward
+
+Middle frame shows both couple sitting together under transparent umbrella
+
+Bottom frame shows emotional close-up of female looking softly toward male
+
+Smooth seamless collage storytelling layout
+
+Soft emotional romantic chemistry between both characters
+
+MAIN COUPLE:
+
+Male sitting beside female holding transparent umbrella gently
+
+Female sitting on wooden branch railing naturally
+
+Both looking at each other emotionally
+
+Calm shy romantic atmosphere
+
+Natural candid interaction
+
+Soft eye contact and dreamy expressions
+
+Slight wind moving hair naturally
+
+OUTFIT:
+
+Male wearing loose off-white kurta shirt with rolled sleeves
+
+Female wearing soft ivory floral dress
+
+Elegant silver earrings
+
+Minimal aesthetic styling
+
+Soft fabric folds and painterly texture
+
+BACKGROUND:
+
+Magical rainy forest night atmosphere
+
+Deep green cinematic environment
+
+Tiny glowing fireflies floating everywhere Rain droplets softly visible
+
+Leaves framing edges naturally
+
+Warm dreamy bokeh lighting
+
+Dark emerald-green night tones
+
+Soft fog depth in background
+
+VIRAL VISUAL ELEMENTS:
+
+Tiny glowing golden particles.
+
+Floating fireflies
+
+Transparent umbrella reflections
+
+Soft rain sparkle highlights
+
+Dreamy cinematic haze
+
+Hand-painted light bloom
+
+Soft glowing leaf edges
+
+Romantic anime lighting atmosphere
+
+Smooth painterly gradients
+
+LIGHTING:
+
+Warm soft golden glow on faces
+
+Moody emerald-green ambient lighting
+
+Cinematic rain-night contrast
+
+Gentle highlights around hair
+
+Soft dreamy shadow blending
+
+Emotional romantic illumination
+
+Warm magical glow from floating particles
+
+STYLE:
+
+Ultra-premium anime realism
+
+Soft hand-painted illustration
+
+Ghibli-inspired romantic atmosphere Luxury cinematic anime artwork
+
+Pinterest aesthetic composition
+
+Emotional storytelling visual
+
+Soft watercolor-painterly rendering
+
+Viral Instagram couple aesthetic
+
+CAMERA & COMPOSITION:
+
+Cinematic close-up framing
+
+Soft shallow depth of field
+
+Artistic stacked-frame collage layout
+
+Smooth visual storytelling flow
+
+Dreamy romantic perspective
+
+Ultra-clean composition balance
+
+COLOR PALETTE:
+
+Emerald-green night tones
+
+Warm golden highlights
+
+Ivory-white outfit tones
+
+Soft skin glow
+
+Dark moody cinematic harmony
+
+Gentie pastel contrast
+
+High-resolution 4K masterpiece, ultra-detailed anime realism, cinematic lighting, hand-painted luxury textures, smooth rendering, professional composition, sharp facial detailing, dreamy atmospheric depth, masterpiece quality, noise-free image, ultra-premium romantic illustration aesthetic.
+
+QUALITY:
+
+blurry faces, low quality, distorted anatomy, extra limbs, cartoonish proportions, messy collage layout, oversaturated colors, text artifacts, watermark, duplicate faces, low-detail background `
+
+  }
+,
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt4.png",
+  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and sabtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
+
+engagement.
+
+MAIN SUBJECT:
+
+Create an ultra-premium monochrome fashion poster in vertical 4:5 ratio with pro-level studio editing, luxury editorial aesthetics, and world-class DSLR-quality realism designed for viral Instagram
+
+Standing confidently in contor frame
+
+Slight body turn sideways naturally
+
+One hand adjusting collar softly
+
+Other hand inside pocket
+
+Head slightly tilted downvard
+
+Looking toward camera with calm ego expression
+
+Relaxed luxury masculine posture
+
+Powerful aura-farming body language
+
+Messy fringe hairstyle with realistic texture
+
+OUTFIT
+
+Face ultra sharp and highly detailed
+
+Oversized matte-black luxury shirt
+
+Black fitted trousers
+
+White sneakers for subtle contrast
+
+Thin silver chain
+
+Premium metallic watch
+
+Hyper-realistic fabric folds and stitching
+
+Soft glossy reflections on outfit edges
+
+MONOCHROME COLLAGE EFFECT:
+
+Massive monochrome close-up portrait behind main subject
+
+Side-profile portrait
+
+Different semi-transparent monochrome versions floating in background
+
+Looking downward pose
+
+Walking candid silhouette
+
+Soft blurred monochrome layers
+
+Premium studio poster composition
+
+Smooth layered editorial depth
+
+BACKGROUND:
+
+Ultra-realistic dark grey-black studio environment
+
+Soft gradient backdrop
+
+Professional photography studio realism
+
+Rich HDR environmental depth
+
+Strong high-contrast shadows
+
+Luxury editorial atmosphere
+
+Smooth smoky depth
+
+Background enhanced like premium 20MB DSLR capture
+
+Clean monochrome color grading
+
+Strong realistic light interaction
+
+VIRAL VISUAL ELEMENTS:
+
+Floating white dust particles
+
+Soft smoke ribbons
+
+Glossy monochrome reflections
+
+White glowing edge light around silhouette
+
+Minimal floating shards
+
+Cinematic studio haze
+
+Light bloom reflections
+
+Dreamy layered depth Premium shadow textures
+
+Smooth vignette edges
+
+LIGHTING
+
+Professional high-end studio lighting
+
+Strong white rim light behind subject Soft beauty light on face
+
+HDR realistic contrast
+
+Ultra-realistic skin highlights
+
+Deep cinematic shadow gradients
+
+Premium editorial lighting setup
+
+Strong monochrome depth lighting
+
+Sharp glossy reflections on outfit
+
+CAMERA & DEPTH
+
+Nikon 29 DSLR simulation
+
+85mm f/1.2 studio portrait lens Slight low-angle fashion shet
+
+Razor sharp facial detailing
+
+Crystal-clear skin texture
+
+Ultra creamy background blur
+
+Strong foreground-background separation
+
+Professional luxury composition
+
+DSLR-quality clarity and sharpness
+
+PHOTO EDITING STYLE:
+
+Luxury monochrome editorial poster
+
+Premium Photoshop compositing
+
+Viral Instagram fashion aesthetic
+
+High-end magazine cover editing
+
+Ultra-clean premium retouching Hyper-realistic skin enhancement
+
+Smooth professional blending
+
+Pinterest worthy luxury realism
+
+Studio-quality fashion photography
+
+QUALITY:
+
+Ultra-realistic 8K masterpiece, world-class DSLR-quality clarity, hyper-detalled skin texture, realistic pores, crystal-clear eyes, premium HDR lighting, extreme sharpness, ultra-HD environmental detail, professional monochrome color grading, polhhed luxury aesthetic, noise-free image, maximum realism and depth, 20MB-quality professional photography appearance.
+
+NEGATIVE PROMPT blurry image, low quality, distorted anatomy, fake monochrome uffect, unrealistic lighting, oversaturated shadows, duplicate body parts, noisy textures, watermark, text artifacts, lour-detail
+
+background, fake skin texture`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt5.png",
+  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create an ultra-cinematic emotional collage portrait poster in vertical 9:16 ratio with powerful Instagram editorial aesthetics, deep red-black atmosphere, emotional masculine energy, and luxury DSLR-quality compositing.
+
+MAIN SUBJECT:
+
+Standing center foreground confidently
+
+Looking sideways toward left naturally
+
+Calm emotional smirk expression
+
+One hand resting softly near stomach
+
+Relaxed masculine posture
+
+Slight candid body angle
+
+Strong aura-farming presence
+
+Main subject ultra sharp and colorful
+
+OUTFIT:
+
+Rich glowing purple shirt
+
+Matte-black trousers
+
+Thin silver chain with blue pendant
+
+Realistic luxury fabric folds
+
+Slight glossy reflections on outfit
+
+Premium portrait styling
+
+Main colorful portrait placed in center foreground
+
+COLLAGE COMPOSITION:
+
+Each panel contains different black-and-white candid versions of same person Different facial expressions and angles in each panel
+
+Behind subject are 4 vertical portrait panels
+
+Panels layered naturally with depth
+
+Slight glow around edges
+
+Luxury scrapbook-meets-editorial composition
+
+BACKGROUND:
+
+Massive semi-transparent portrait of same subject blended into background
+
+Entire background glowing deep crimson-red
+
+Dark midnight environment
+
+Soft blurred building structure behind
+
+Heavy cinematic shadow atmosphere
+
+Smooth environmental depth
+
+Black-red luxury mood
+
+VIRAL VISUAL ELEMENTS:
+
+Deep red cinematic smoke spreading behind subject
+
+Floating ember particles
+
+Soft black fog ribbons
+
+Red neon glow around silhouette
+
+Slight white cutout outline around main subject
+
+Cinematic dust haze
+
+Subtle grain texture
+
+Smooth vignette around edges
+
+Dreamy red bloom lighting
+
+Foreground shadow depth
+
+LIGHTING:
+
+Strong red cinematic backlight
+
+HDR realistic contrast
+
+Glossy skin highlights
+
+Bright premium exposure balance
+
+Smooth dramatic shadows
+
+Red-black moody editorial lighting
+
+Soft front beauty light
+
+Luxury cinematic glow reflections
+
+CAMERA & DEPTH:
+
+Nikon Z9 DSLR simulation
+
+85mm f/1.2 portrait lens
+
+Razor-sharp facial detailing
+
+Ultra creamy background blur
+
+Professional collage depth layering
+
+Strong foreground background separation
+
+Sharp foreground subject focus
+
+Background portrait softly faded naturally
+
+PHOTO EDITING STYLE:
+
+Luxury Instagram collage poster
+
+Premium Photoshop compositing
+
+Cinematic emotional storytelling
+
+High-end scrapbook editorial style
+
+Moody masculine poster aesthetic
+
+Viral Instagram reel-cover design
+
+Smooth premium retouching
+
+Ultra-clean blending and masking
+
+COLOR PALETTE:
+
+Deep crimson-red atmosphere
+
+Matte black shadows
+
+Purple outfit contrast
+
+White cutout glow
+
+Warm skin highlights
+
+Smooth cinematic harmony
+
+QUALITY:
+
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, film grain removed, deep color
+
+depth, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image.
+
+NEGATIVE PROMPT:
+
+female subject, blurry image, low quality, distorted anatomy, cartoon look, oversaturated colors, duplicate body parts, noisy textures, watermark, text
+
+artifacts, fake shadows`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt6.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt7.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt8.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt9.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt10.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt11.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt12.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt13.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt14.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+},
+
+{
+  username: "Rushi",
+  time: "",
+  likes: "",
+  image: "images/prompt15.png",
+  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+}
+  ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+    {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/xyz.png",
+
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  } ,
+
+
+
+
+
+
+
+
+
+
+];
+
+const gallery =
+  document.getElementById("gallery");
+
+/* SHOW PROMPTS */
+
+function showPrompts(data) {
+
+  gallery.innerHTML = "";
+
+  data.forEach((item, index) => {
+
+    gallery.innerHTML += `
+
+    <div class="card">
+
+      <!-- HEADER -->
+
+      <div class="card-header">
+
+        <div class="user-info">
+
+          <img src="images/profile.png"
+          class="profile">
+
+          <div>
+
+            <h4>${item.username}</h4>
+
+            <span>${item.time}</span>
+
+          </div>
+
+        </div>
+
+        <div class="dots">⋮</div>
+
+      </div>
+
+      <!-- IMAGE -->
+
+      <img src="${item.image}"
+      class="main-image">
+
+      <!-- ACTIONS -->
+
+      <div class="card-actions">
+
+        <div class="left-actions">
+
+          ♡ ${item.likes}
+
+        </div>
+
+        <button
+        class="copy-btn"
+        onclick="copyPrompt(${index})">
+
+          Copy Prompt
+
+        </button>
+
+        <div class="bookmark">
+
+          ⌑
+
+        </div>
+
+      </div>
+
+    </div>
+
+    `;
+
+  });
+
+}
+
+showPrompts(prompts);
+
+/* COPY PROMPT */
+
+function copyPrompt(index) {
+
+  navigator.clipboard.writeText(
+    prompts[index].prompt
+  );
+
+  const toast =
+    document.getElementById("toast");
+
+  toast.classList.add("show");
+
+  setTimeout(() => {
+
+    toast.classList.remove("show");
+
+  }, 2000);
+
+}
+
+/* SEARCH */
+
+const searchInput =
+  document.getElementById("searchInput");
+
+searchInput.addEventListener("input", () => {
+
+  const value =
+    searchInput.value.toLowerCase();
+
+  const filtered =
+    prompts.filter(item =>
+
+      item.username
+        .toLowerCase()
+        .includes(value)
+
+      ||
+
+      item.prompt
+        .toLowerCase()
+        .includes(value)
+
+    );
+
+  showPrompts(filtered);
+
+});
