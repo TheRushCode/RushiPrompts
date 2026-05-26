@@ -1,7 +1,171 @@
 const prompts = [
 
+
+    
   {
 
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/Romantic.png",
+
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create a dreamy romantic animated couple illustration in vertical 4:5 ratio with emotional cinematic storytelling, soft anime realism, and ultra-premium night aesthetic inspired by Studio Ghibli and
+
+modern Pinterest romantic art.
+
+COUPLE COMPOSITION:
+
+Three stacked cinematic frames inside one single image
+
+Top frame shows close-up side profile of male looking softly downward
+
+Middle frame shows both couple sitting together under transparent umbrella
+
+Bottom frame shows emotional close-up of female looking softly toward male
+
+Smooth seamless collage storytelling layout
+
+Soft emotional romantic chemistry between both characters
+
+MAIN COUPLE:
+
+Male sitting beside female holding transparent umbrella gently
+
+Female sitting on wooden branch railing naturally
+
+Both looking at each other emotionally
+
+Calm shy romantic atmosphere
+
+Natural candid interaction
+
+Soft eye contact and dreamy expressions
+
+Slight wind moving hair naturally
+
+OUTFIT:
+
+Male wearing loose off-white kurta shirt with rolled sleeves
+
+Female wearing soft ivory floral dress
+
+Elegant silver earrings
+
+Minimal aesthetic styling
+
+Soft fabric folds and painterly texture
+
+BACKGROUND:
+
+Magical rainy forest night atmosphere
+
+Deep green cinematic environment
+
+Tiny glowing fireflies floating everywhere Rain droplets softly visible
+
+Leaves framing edges naturally
+
+Warm dreamy bokeh lighting
+
+Dark emerald-green night tones
+
+Soft fog depth in background
+
+VIRAL VISUAL ELEMENTS:
+
+Tiny glowing golden particles.
+
+Floating fireflies
+
+Transparent umbrella reflections
+
+Soft rain sparkle highlights
+
+Dreamy cinematic haze
+
+Hand-painted light bloom
+
+Soft glowing leaf edges
+
+Romantic anime lighting atmosphere
+
+Smooth painterly gradients
+
+LIGHTING:
+
+Warm soft golden glow on faces
+
+Moody emerald-green ambient lighting
+
+Cinematic rain-night contrast
+
+Gentle highlights around hair
+
+Soft dreamy shadow blending
+
+Emotional romantic illumination
+
+Warm magical glow from floating particles
+
+STYLE:
+
+Ultra-premium anime realism
+
+Soft hand-painted illustration
+
+Ghibli-inspired romantic atmosphere Luxury cinematic anime artwork
+
+Pinterest aesthetic composition
+
+Emotional storytelling visual
+
+Soft watercolor-painterly rendering
+
+Viral Instagram couple aesthetic
+
+CAMERA & COMPOSITION:
+
+Cinematic close-up framing
+
+Soft shallow depth of field
+
+Artistic stacked-frame collage layout
+
+Smooth visual storytelling flow
+
+Dreamy romantic perspective
+
+Ultra-clean composition balance
+
+COLOR PALETTE:
+
+Emerald-green night tones
+
+Warm golden highlights
+
+Ivory-white outfit tones
+
+Soft skin glow
+
+Dark moody cinematic harmony
+
+Gentie pastel contrast
+
+High-resolution 4K masterpiece, ultra-detailed anime realism, cinematic lighting, hand-painted luxury textures, smooth rendering, professional composition, sharp facial detailing, dreamy atmospheric depth, masterpiece quality, noise-free image, ultra-premium romantic illustration aesthetic.
+
+QUALITY:
+
+blurry faces, low quality, distorted anatomy, extra limbs, cartoonish proportions, messy collage layout, oversaturated colors, text artifacts, watermark, duplicate faces, low-detail background `
+
+  }
+  
+
+,
+{ 
+  
     username: "Rushi",
 
     time: "",
@@ -344,172 +508,13 @@ NEGATIVE PROMPT: blurry image, low quality, distorted anatomy, fake painting tex
 
   },
 
+  
   {
-
     username: "Rushi",
-
     time: "",
-
     likes: "",
-
-    image: "images/Romantic.png",
-
-    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create a dreamy romantic animated couple illustration in vertical 4:5 ratio with emotional cinematic storytelling, soft anime realism, and ultra-premium night aesthetic inspired by Studio Ghibli and
-
-modern Pinterest romantic art.
-
-COUPLE COMPOSITION:
-
-Three stacked cinematic frames inside one single image
-
-Top frame shows close-up side profile of male looking softly downward
-
-Middle frame shows both couple sitting together under transparent umbrella
-
-Bottom frame shows emotional close-up of female looking softly toward male
-
-Smooth seamless collage storytelling layout
-
-Soft emotional romantic chemistry between both characters
-
-MAIN COUPLE:
-
-Male sitting beside female holding transparent umbrella gently
-
-Female sitting on wooden branch railing naturally
-
-Both looking at each other emotionally
-
-Calm shy romantic atmosphere
-
-Natural candid interaction
-
-Soft eye contact and dreamy expressions
-
-Slight wind moving hair naturally
-
-OUTFIT:
-
-Male wearing loose off-white kurta shirt with rolled sleeves
-
-Female wearing soft ivory floral dress
-
-Elegant silver earrings
-
-Minimal aesthetic styling
-
-Soft fabric folds and painterly texture
-
-BACKGROUND:
-
-Magical rainy forest night atmosphere
-
-Deep green cinematic environment
-
-Tiny glowing fireflies floating everywhere Rain droplets softly visible
-
-Leaves framing edges naturally
-
-Warm dreamy bokeh lighting
-
-Dark emerald-green night tones
-
-Soft fog depth in background
-
-VIRAL VISUAL ELEMENTS:
-
-Tiny glowing golden particles.
-
-Floating fireflies
-
-Transparent umbrella reflections
-
-Soft rain sparkle highlights
-
-Dreamy cinematic haze
-
-Hand-painted light bloom
-
-Soft glowing leaf edges
-
-Romantic anime lighting atmosphere
-
-Smooth painterly gradients
-
-LIGHTING:
-
-Warm soft golden glow on faces
-
-Moody emerald-green ambient lighting
-
-Cinematic rain-night contrast
-
-Gentle highlights around hair
-
-Soft dreamy shadow blending
-
-Emotional romantic illumination
-
-Warm magical glow from floating particles
-
-STYLE:
-
-Ultra-premium anime realism
-
-Soft hand-painted illustration
-
-Ghibli-inspired romantic atmosphere Luxury cinematic anime artwork
-
-Pinterest aesthetic composition
-
-Emotional storytelling visual
-
-Soft watercolor-painterly rendering
-
-Viral Instagram couple aesthetic
-
-CAMERA & COMPOSITION:
-
-Cinematic close-up framing
-
-Soft shallow depth of field
-
-Artistic stacked-frame collage layout
-
-Smooth visual storytelling flow
-
-Dreamy romantic perspective
-
-Ultra-clean composition balance
-
-COLOR PALETTE:
-
-Emerald-green night tones
-
-Warm golden highlights
-
-Ivory-white outfit tones
-
-Soft skin glow
-
-Dark moody cinematic harmony
-
-Gentie pastel contrast
-
-High-resolution 4K masterpiece, ultra-detailed anime realism, cinematic lighting, hand-painted luxury textures, smooth rendering, professional composition, sharp facial detailing, dreamy atmospheric depth, masterpiece quality, noise-free image, ultra-premium romantic illustration aesthetic.
-
-QUALITY:
-
-blurry faces, low quality, distorted anatomy, extra limbs, cartoonish proportions, messy collage layout, oversaturated colors, text artifacts, watermark, duplicate faces, low-detail background `
-
-  }
-,
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt4.png",
-  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and sabtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
+    image: "images/prompt4.png",
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and sabtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
 
 engagement.
 
@@ -674,14 +679,14 @@ Ultra-realistic 8K masterpiece, world-class DSLR-quality clarity, hyper-detalled
 NEGATIVE PROMPT blurry image, low quality, distorted anatomy, fake monochrome uffect, unrealistic lighting, oversaturated shadows, duplicate body parts, noisy textures, watermark, text artifacts, lour-detail
 
 background, fake skin texture`
-},
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt5.png",
-  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create an ultra-cinematic emotional collage portrait poster in vertical 9:16 ratio with powerful Instagram editorial aesthetics, deep red-black atmosphere, emotional masculine energy, and luxury DSLR-quality compositing.
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt5.png",
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere. Create an ultra-cinematic emotional collage portrait poster in vertical 9:16 ratio with powerful Instagram editorial aesthetics, deep red-black atmosphere, emotional masculine energy, and luxury DSLR-quality compositing.
 
 MAIN SUBJECT:
 
@@ -846,14 +851,14 @@ NEGATIVE PROMPT:
 female subject, blurry image, low quality, distorted anatomy, cartoon look, oversaturated colors, duplicate body parts, noisy textures, watermark, text
 
 artifacts, fake shadows`
-},
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt6.png",
-  prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged - preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background, motion, outfit and atmosphere.
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt6.png",
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged - preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background, motion, outfit and atmosphere.
 
 The subject stands casually at the edge of a sun-drenched luxury villa terrace one hand resting lightly on a white marble railing - body turned 3/4 toward camera - head tilted slightly - chin raised with a relaxed powerful confidence - eyes gazing softly into the far golden horizon with a calm unbothered expression - like a man who woke up rich and has nowhere to rush.
 
@@ -884,14 +889,14 @@ scroll-stopping visual impact.
 Negative Prompt:
 
 altered face, changed hairstyle, different skin tone, cool blue tones, desaturated image, harsh shadows, overexposed highlights, cartoon style, low quality, blurry subject, distorted anatomy, watermark, flat lighting, amateur photography, plastic skin, bad composition, lifeless expression, digital noise, artificial colors, stock photo feel`
-},
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt7.png",
-  prompt: `You are a world-class cinematic lifestyle photographer, luxury Al visual artist, and elite Photoshop compositor.
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt7.png",
+    prompt: `You are a world-class cinematic lifestyle photographer, luxury Al visual artist, and elite Photoshop compositor.
 
 Follow ALL instructions precisely.
 
@@ -976,14 +981,14 @@ QUALITY: High-resolution 4K masterpiece, photorealistic, hyper-detailed textures
 lighting, HDR
 
 NEGATIVE PROMPT: blurry face, fake background, cartoon atmosphere, distorted anatomy, low quality, oversaturated colors, noisy image, watermark, ratio not matched`
-},
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt8.png",
-  prompt: `You are a world-class cinematic fashion photographer, luxury visual artist, and elite Photoshop compositor. Follow ALL instructions precisely.
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt8.png",
+    prompt: `You are a world-class cinematic fashion photographer, luxury visual artist, and elite Photoshop compositor. Follow ALL instructions precisely.
 
 TASK:
 
@@ -1094,65 +1099,65 @@ Ultra creamy background blur
 QUALITY:
 
 High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, 8K UHD, cinematic lighting, HDR, luxury editorial realism`
-},
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt9.png",
-  prompt: `Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smile actions (uploaded photo 100% Face match) of A stylish handsome young man (refrence image given) with a slightly dark messy hairstyle. He hold a Canon camera, He is looking thoughtfully off-canmera, captured in a candid, high-key cinematic outdoor portrait The composition is Framed by a branch of vivid wear a black and white gradient collored shirt.wear neck gold chain . Wear black sunglasses. Give portrait image.`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt9.png",
+    prompt: `Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smile actions (uploaded photo 100% Face match) of A stylish handsome young man (refrence image given) with a slightly dark messy hairstyle. He hold a Canon camera, He is looking thoughtfully off-canmera, captured in a candid, high-key cinematic outdoor portrait The composition is Framed by a branch of vivid wear a black and white gradient collored shirt.wear neck gold chain . Wear black sunglasses. Give portrait image.`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt10.png",
-  prompt: `Ratio 4:5, Double exposure watercolor splash poster art of a stylish me, one large close-up portrait in background and one full-body fashion pose in foreground, vibrant watercolor paint splashes in orange blue tones, cinematic lighting, ultra realistic face details, soft glowing skin dreamy aesthetic, modern fashion editorial style, realistic digital painting mixed with watercolor illustration, elegant typography space at bottom, depth, artistic ink texture, luxury Instagram poster,`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt10.png",
+    prompt: `Ratio 4:5, Double exposure watercolor splash poster art of a stylish me, one large close-up portrait in background and one full-body fashion pose in foreground, vibrant watercolor paint splashes in orange blue tones, cinematic lighting, ultra realistic face details, soft glowing skin dreamy aesthetic, modern fashion editorial style, realistic digital painting mixed with watercolor illustration, elegant typography space at bottom, depth, artistic ink texture, luxury Instagram poster,`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt11.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt11.png",
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt12.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt12.png",
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt13.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt13.png",
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt14.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
-},
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt14.png",
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  },
 
-{
-  username: "Rushi",
-  time: "",
-  likes: "",
-  image: "images/prompt15.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
-}
+  {
+    username: "Rushi",
+    time: "",
+    likes: "",
+    image: "images/prompt15.png",
+    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  }
   ,
-    {
+  {
 
     username: "Rushi",
 
@@ -1164,8 +1169,8 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
-    {
+  },
+  {
 
     username: "Rushi",
 
@@ -1177,8 +1182,8 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
-    {
+  },
+  {
 
     username: "Rushi",
 
@@ -1190,8 +1195,8 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
-    {
+  },
+  {
 
     username: "Rushi",
 
@@ -1203,8 +1208,8 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
-    {
+  },
+  {
 
     username: "Rushi",
 
@@ -1216,8 +1221,8 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
-    {
+  },
+  {
 
     username: "Rushi",
 
@@ -1229,7 +1234,7 @@ High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intrica
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  } ,
+  },
 
 
 
