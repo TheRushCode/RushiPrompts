@@ -1259,7 +1259,98 @@ NEGATIVE PROMPT: blurry image, low quality, distorted anatomy, cartoon bike, fak
     time: "",
     likes: "",
     image: "images/prompt13.png",
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `Use the person from the reference photo as the main subject. Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting. Allow changes only in camera position, background motion, outfit and atmosphere.
+
+Create an ultra-premium luxury social-media profile icon in perfect 1:1 ratio with cinematic Instagram aesthetics, designed like a high-status verified celebrity account profile picture.
+
+MAIN SUBJECT:
+• Subject positioned perfectly in center of circular frame
+• Head-to-chest composition only
+• Looking slightly sideways with calm confident aura
+• Soft masculine expression
+• Slight luxury smirk
+• Premium editorial portrait posture
+• Face ultra sharp and highly detailed
+
+OUTFIT:
+• Matte-black luxury shirt with slightly open collar
+• Thin silver chain
+• Minimal premium accessories
+• Soft glossy reflections on fabric
+• Elegant modern styling
+
+BACKGROUND:
+• Deep matte-black circular background
+• Smooth luxury gradient depth
+• Subtle smoky atmosphere
+• Minimal clean premium composition
+• Soft cinematic glow behind head
+• Noise-free ultra-clean background
+• Soft radial lighting fade
+
+PROFILE FRAME DESIGN:
+• Thick premium white circular border
+• Outer soft grey-white ring glow
+• Luxury minimal Instagram-style framing
+• Verified blue badge positioned at top-right edge of circle
+• Blue verified sign glowing softly
+• Clean high-status celebrity aesthetic
+
+TEXT DESIGN:
+• Stylish luxury typography below profile circle
+• Text: “Rushi”
+• Elegant white modern font
+• Slight neon glow around text
+• Minimal premium spacing
+• High-end social branding aesthetic
+
+VIRAL VISUAL ELEMENTS:
+• Tiny floating dust particles
+• Soft cinematic bloom
+• Smooth vignette edges
+• Light glossy reflections
+• Minimal holographic glow
+• Dreamy soft contrast
+• Ultra-clean luxury atmosphere
+
+LIGHTING:
+• Soft cinematic beauty lighting
+• HDR realistic contrast
+• Glossy facial highlights
+• Bright premium exposure balance
+• Smooth shadow gradients
+• Luxury editorial lighting setup
+• Soft rim light around hair and shoulders
+
+CAMERA & DEPTH:
+• Nikon Z9 DSLR simulation
+• 85mm f/1.2 portrait lens
+• Razor-sharp facial detailing
+• Ultra creamy depth separation
+• DSLR-quality realism
+• Professional portrait rendering
+
+PHOTO EDITING STYLE:
+• Luxury celebrity profile aesthetic
+• Premium Photoshop compositing
+• Instagram verified profile design
+• High-end editorial retouching
+• Ultra-clean luxury finishing
+• Minimal modern branding style
+• Cinematic portrait realism
+
+COLOR PALETTE:
+• Matte black tones
+• White luxury highlights
+• Blue verified badge accent
+• Soft silver reflections
+• Smooth cinematic harmony
+
+QUALITY:
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, film grain removed, deep color depth, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image.
+
+NEGATIVE PROMPT:
+blurry image, low quality, distorted anatomy, cartoon look, oversaturated colors, noisy textures, watermark, text artifacts, fake verified badge, low-detail background`
   },
 
   {
