@@ -1265,74 +1265,7 @@ blurry image, low quality, distorted anatomy, fake monochrome effect, unrealisti
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
-  },
-  {
-
-    username: "Rushi",
-
-    time: "",
-
-    likes: "",
-
-    image: "images/xyz.png",
-
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  },
-  {
-
-    username: "Rushi",
-
-    time: "",
-
-    likes: "",
-
-    image: "images/xyz.png",
-
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  },
-  {
-
-    username: "Rushi",
-
-    time: "",
-
-    likes: "",
-
-    image: "images/xyz.png",
-
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  },
-  {
-
-    username: "Rushi",
-
-    time: "",
-
-    likes: "",
-
-    image: "images/xyz.png",
-
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  },
-  {
-
-    username: "Rushi",
-
-    time: "",
-
-    likes: "",
-
-    image: "images/xyz.png",
-
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  },
-
-
+  }
 
 
 
