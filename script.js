@@ -983,7 +983,117 @@ NEGATIVE PROMPT: blurry face, fake background, cartoon atmosphere, distorted ana
   time: "",
   likes: "",
   image: "images/prompt8.png",
-  prompt: `Watercolor artistic sketch portrait with floral background, ...`
+  prompt: `You are a world-class cinematic fashion photographer, luxury visual artist, and elite Photoshop compositor. Follow ALL instructions precisely.
+
+TASK:
+
+Create an ultra-realistic cinematic double-exposure portrait in 4:5 vertical ratio, designed like a luxury Netflix fashion poster with premium editorial photography aesthetics and viral visual composition.
+
+SUBJECT:
+
+Use uploaded face with 100% facial accuracy.
+
+Young Indian male with attractive masculine features, sharp jawline, calm luxury aura.
+
+MAIN SUBJECT:
+
+Full-body visible
+
+Standing confidently on floating glossy black staircase
+
+One hand adjusting suit cuff
+
+Other hand inside pocket
+
+Looking slightly downward sideways
+
+Powerful cinematic posture
+
+OUTFIT:
+
+Oversized matte-black trench coat flowing in wind
+
+Deep wine-red turtleneck
+
+Slim black trousers
+
+Black Chelsea boots
+
+Silver luxury chain
+
+Black sunglasses hanging near collar
+
+BACKGROUND PORTRAIT:
+
+Giant semi-transparent close-up portrait behind subject
+
+Wearing glossy black aviator sunglasses
+
+Looking upward confidently
+
+Hair slightly moving from wind
+
+Soft cinematic blur edges
+
+Semi-transparent smoky blending
+
+BACKGROUND:
+
+Midnight luxury city skyline
+
+Wet reflective streets
+
+Blue neon reflections
+
+Floating fog atmosphere
+
+Dark cinematic mood
+
+VIRAL ELEMENTS:
+
+White neon leaves falling slowly
+
+Floating reflective glass shards
+
+Red cinematic smoke
+
+Blue neon streaks crossing frame
+
+Tiny floating embers
+
+Soft glowing particles
+
+Motion-blurred city lights
+
+LIGHTING:
+
+Strong blue rim lighting
+
+Soft white beauty light on face
+
+Red ambient glow from below
+
+HDR cinematic contrast
+
+Smooth realistic shadows
+
+Volumetric fog lighting
+
+CAMERA:
+
+Nikon Z9 DSLR simulation
+
+85mm f/1.2 portrait lens
+
+Slight low-angle cinematic framing
+
+Razor sharp face
+
+Ultra creamy background blur
+
+QUALITY:
+
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, 8K UHD, cinematic lighting, HDR, luxury editorial realism`
 },
 
 {
