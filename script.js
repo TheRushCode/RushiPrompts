@@ -1226,7 +1226,32 @@ blurry image, low quality, distorted anatomy, fake monochrome effect, unrealisti
     time: "",
     likes: "",
     image: "images/prompt12.png",
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `Use the person from the reference photo as the main subject . Keep their exact facial features, hairstyle, skin tone, and expression perfectly unchanged preserve all realism, emotional depth, and subtle facial lighting . Allow changes only in camera position, background motion, outfit and atmosphere. 
+ 
+ 
+Create an ultra-realistic luxury bike portrait in vertical 4:5 ratio with highly-detailed DSLR photography aesthetics, premium fashion realism, and viral Instagram editing style.
+ 
+MAIN SUBJECT: • Leaning naturally against a premium ninja super bike • One hand resting on bike handle softly • Other hand inside jeans pocket • One leg crossed casually • Looking sideways away from camera with calm attractive expression • Relaxed confident masculine posture • Natural aura-farming body language • Messy fringe hairstyle moving softly in wind • Face ultra sharp and realistic
+ 
+OUTFIT: • Soft pastel pink oversized shirt with folded sleeves • Slim blue denim jeans • Clean white sneakers • Thin silver chain • Premium metallic watch • Hyper-realistic fabric folds and stitching • Soft glossy outfit reflections
+ 
+BIKE: • Ultra-realistic black-green ninja superbike • Detailed glossy body reflections • Premium tire texture realism • Realistic headlight reflections • Sharp mechanical detailing • DSLR automotive realism
+ 
+BUBBLE COLLAGE EFFECT: • Multiple transparent floating bubbles around subject • Inside each bubble show different portrait versions of same person: • black outfit pose • white shirt portrait • sitting pose • side-profile candid • urban street background • sunset aesthetic portrait • Some bubbles close to camera heavily blurred naturally • Some bubbles ultra sharp • Realistic glass reflection texture on bubbles • Floating naturally through scene
+ 
+BACKGROUND: • Ultra-realistic outdoor urban roadside environment • Realistic luxury street atmosphere • Detailed road texture • Natural daylight environment • Rich HDR environmental depth • Soft realistic background blur • Realistic trees, buildings, and parked vehicles in distance • High-contrast natural lighting • Background enhanced like premium 20MB DSLR capture • Clean luxury color grading • Strong realistic shadow interaction
+ 
+VIRAL VISUAL ELEMENTS: • Tiny glowing dust particles • Floating soft smoke haze • Light reflections on bubbles • Natural sunlight glow • Soft lens reflections • Dreamy depth layering • Premium glossy highlights • Minimal cinematic fog atmosphere • Dynamic environmental realism
+ 
+LIGHTING: • High-contrast realistic daylight lighting • Soft natural skin highlights • Bright premium exposure balance • HDR realistic contrast • Realistic sunlight reflections on bike • Smooth shadow gradients • Natural environmental light interaction • Ultra-premium fashion photography lighting setup
+ 
+CAMERA & DEPTH: • Nikon Z9 DSLR simulation • 85mm f/1.2 portrait lens • Slight low-angle fashion shot • Razor-sharp facial detailing • Crystal-clear skin texture • Ultra creamy DSLR depth blur • Strong foreground-background separation • Professional automotive portrait composition
+ 
+PHOTO EDITING STYLE: • Luxury realistic bike photoshoot • Premium Photoshop compositing • Viral Instagram fashion aesthetic • High-end automotive editorial editing • Ultra-clean premium retouching • Hyper-realistic skin enhancement • Smooth realistic blending • Pinterest-worthy luxury realism
+ 
+QUALITY: Ultra-realistic 8K masterpiece, world-class DSLR-quality clarity, hyper-detailed skin texture, realistic pores, crystal-clear eyes, premium HDR lighting, extreme sharpness, ultra-HD environmental detail, professional color grading, polished luxury aesthetic, noise-free image, maximum realism and depth, 20MB-quality professional photography appearance.
+ 
+NEGATIVE PROMPT: blurry image, low quality, distorted anatomy, cartoon bike, fake bubbles, unrealistic lighting, oversaturated colors, duplicate body parts, noisy textures, watermark, text artifacts, low-detail background, fake reflections, ratio 4:5 not matched`
   },
 
   {
