@@ -1358,7 +1358,135 @@ blurry image, low quality, distorted anatomy, cartoon look, oversaturated colors
     time: "",
     likes: "",
     image: "images/prompt14.png",
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `A stronger viral version of your concept is to make it feel like:
+
+accidental candid phone captures
+
+same face locked perfectly
+
+emotional realism
+
+burst-photo storytelling
+
+luxury night photography
+
+soft romantic atmosphere
+
+
+Here’s a premium upgraded version in your style:
+
+Use the uploaded reference photo as the single and exclusive facial identity source.
+
+The exact same face must appear identically in ALL three frames with zero variation. Do not reinterpret, beautify, regenerate, stylize, or alter facial structure between frames. Facial identity consistency has absolute highest priority over lighting, blur, realism, or angle changes.
+
+Create an ultra-realistic cinematic vertical portrait split equally into THREE stacked horizontal frames (top / middle / bottom) inside one single 9:16 composition. The frames should feel like accidental burst photos captured seconds apart on a premium DSLR phone camera during a candid emotional moment.
+
+The same young stylish Indian male appears in all three frames:
+• identical face
+• same hairstyle
+• same outfit
+• same accessories
+• same environment
+• only subtle natural movement changes between frames
+
+MOOD:
+• candid
+• human
+• dreamy
+• romantic
+• naturally attractive
+• emotionally aesthetic
+• soft luxury Instagram vibe
+
+LOCATION & BACKGROUND:
+The subject stands naturally beneath a massive lush bougainvillea wall overflowing with vibrant glowing pink flowers and rich green foliage during dreamy midnight blue hour. Tiny hints of dark night sky visible between branches. Warm fairy lights softly hidden inside flowers creating magical bokeh lighting. A few orange-yellow flowers visible softly blurred in background corners. Environment feels real, lived-in, cinematic, emotional, and naturally imperfect — NOT studio staged.
+
+FRAME COMPOSITION:
+
+TOP FRAME:
+• Subject looking slightly upward toward flowers
+• One hand inside pocket
+• Soft candid side profile
+• Hair moving gently in wind
+• Warm emotional expression
+
+MIDDLE FRAME:
+• Subject looking directly toward camera softly
+• Slight relaxed smile
+• Natural standing posture
+• One shoulder leaning lightly against wall
+• Most emotionally engaging frame
+
+BOTTOM FRAME:
+• Subject looking downward thoughtfully
+• Hands relaxed naturally
+• Slight body movement blur
+• Calm emotional masculine aura
+
+OUTFIT:
+• Matte-black oversized shirt with rolled sleeves
+• Relaxed white trousers
+• White luxury sneakers
+• Thin silver bracelet
+• Realistic luxury fabric folds
+• Soft glossy reflections on outfit edges
+
+VIRAL VISUAL ELEMENTS:
+• Tiny glowing dust particles floating naturally
+• White doodle sparkles around flowers
+• Warm cinematic haze
+• Soft foreground flower blur
+• Subtle lens bloom from fairy lights
+• Floating pink petals
+• Creamy dreamy atmosphere
+• Delicate volumetric night lighting
+• Soft natural filmic glow
+• Slight accidental candid framing feel
+
+LIGHTING:
+• Warm cinematic night lighting
+• Soft fairy-light bokeh glow
+• HDR realistic contrast
+• Smooth glossy skin highlights
+• Premium exposure balance
+• Warm orange-pink highlights
+• Smooth shadow gradients
+• Natural luxury beauty lighting
+• Soft rim light around hair
+
+CAMERA & DEPTH:
+• iPhone 16 Pro Max cinematic mode + Nikon Z9 DSLR hybrid look
+• 85mm f/1.2 lens simulation
+• Ultra creamy cinematic background blur
+• Razor-sharp facial detailing
+• Strong foreground-background separation
+• Realistic shallow depth of field
+• Foreground flowers heavily blurred naturally
+• Professional luxury portrait rendering
+
+PHOTO EDITING STYLE:
+• Luxury emotional scrapbook photography
+• Premium Instagram aesthetic
+• Cinematic candid storytelling
+• Pinterest-worthy romantic realism
+• High-end Photoshop compositing
+• Smooth premium retouching
+• Ultra-clean natural skin texture
+• Dreamcore editorial mood
+
+COLOR PALETTE:
+• Deep midnight blue shadows
+• Vibrant bougainvillea pink highlights
+• Warm orange fairy-light glow
+• Matte black outfit contrast
+• Creamy cinematic skin tones
+• Smooth luxury color harmony
+
+QUALITY:
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, film grain removed, deep color depth, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image.
+
+NEGATIVE PROMPT:
+female subject, different face between frames, identity inconsistency, blurry face, distorted anatomy, oversaturated colors, fake flowers, cartoon look, artificial lighting, noisy textures, watermark, text artifacts, duplicated body parts`
   },
 
   {
