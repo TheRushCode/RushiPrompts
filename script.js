@@ -4,6 +4,31 @@ const prompts = [
     
   {
 
+
+
+  // ,
+  // {
+
+  //   username: "Rushi",
+
+  //   time: "",
+
+  //   likes: "",
+
+  //   image: "images/prompt18.png",
+
+  //   prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  // }
+
+
+
+
+
+
+
+
+
     username: "Rushi",
 
     time: "",
@@ -1935,29 +1960,7 @@ NEGATIVE:
 fake trees, blur, low quality, distorted anatomy`
 
   }
-
-
-
-
-  // ,
-  // {
-
-  //   username: "Rushi",
-
-  //   time: "",
-
-  //   likes: "",
-
-  //   image: "images/prompt18.png",
-
-  //   prompt: `Watercolor artistic sketch portrait with floral background, ...`
-
-  // }
-
-
-
-
-
+,
 
 
 
