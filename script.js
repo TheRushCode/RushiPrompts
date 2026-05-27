@@ -1666,7 +1666,196 @@ female subject, blur, fake feathers, noisy textures`
 
     image: "images/prompt17.png",
 
-    prompt: ``
+    prompt: `MASTER CINEMATIC AI PROMPT — ULTRA-REALISTIC SPIRITUAL SHIVA POSTER
+
+Use the uploaded reference image as the ONE AND ONLY facial identity source.
+
+ABSOLUTE FACIAL CONSISTENCY RULE:
+The face must remain 100% identical to the uploaded reference image with zero reinterpretation. Preserve:
+• exact facial structure
+• jawline
+• eyes
+• nose shape
+• lips
+• beard pattern
+• hairstyle
+• skin texture
+• forehead proportions
+• facial symmetry
+• masculine Indian appearance
+
+Do NOT beautify, stylize, cartoonize, age-change, or alter identity in any way. Facial identity preservation has highest priority over all artistic effects, lighting, atmosphere, or composition.
+
+Create an ultra-realistic cinematic spiritual portrait poster in vertical 4:5 ratio with premium Bollywood-editorial realism, luxury devotional aesthetics, emotional storytelling atmosphere, and elite DSLR-quality rendering designed for viral Instagram engagement.
+
+SCENE COMPOSITION:
+A young stylish Indian man stands naturally near the side corner of a massive white textured wall featuring a gigantic hyper-realistic mural of Lord Shiva. The composition feels emotionally powerful, spiritual, grounded, luxurious, and naturally cinematic — like a premium fashion-editorial devotional photoshoot captured accidentally during golden hour.
+
+SUBJECT POSITION & BODY LANGUAGE:
+• Full-body visible
+• Standing near wall edge naturally
+• Leaning softly against wall
+• Both hands inside pockets
+• Looking thoughtfully off-camera
+• Calm peaceful masculine aura
+• Emotionally spiritual presence
+• Relaxed posture
+• Slight natural shoulder drop
+• Natural breathing realism
+• Gentle fabric movement from wind
+• Human candid realism
+• Soft contemplative energy
+
+OUTFIT:
+• Traditional pure-white Indian cotton dhoti
+• Elegant premium white kurta
+• Minimal subtle embroidery details
+• Soft luxury cotton fabric texture
+• Realistic handcrafted folds
+• Slight wind movement in fabric
+• Barefoot for authentic spiritual realism
+• Thin silver bracelet only
+• Clean traditional styling
+• Matte fabric finish
+• Soft premium textile shadows
+• Luxury editorial wardrobe realism
+
+MAIN WALL MURAL:
+A gigantic hand-painted Lord Shiva mural dominates the white wall behind the subject.
+
+MURAL DETAILS:
+• Hyper-realistic Shiva face
+• Calm divine expression
+• Detailed blue-grey skin texture
+• Matte painted mural finish
+• Realistic faded paint texture
+• Large artistic brush strokes visible subtly
+• Elegant spiritual street-art fusion aesthetic
+• Intricate trishul beside Shiva
+• Soft glowing third-eye detail
+• Detailed dreadlocks
+• Subtle sacred ash detailing
+• Realistic mural depth and imperfections
+• Premium Indian mural artistry
+• Luxury temple-street fusion vibe
+• Deep spiritual emotional impact
+
+ENVIRONMENT:
+• Outdoor Indian courtyard atmosphere
+• Minimal earthy Indian architecture
+• Soft beige textured walls
+• Warm stone flooring
+• Soft blurred trees in background
+• Calm devotional environment
+• Rich environmental realism
+• Spacious cinematic depth
+• Elegant natural imperfections
+• Peaceful grounded atmosphere
+• Subtle village-meets-luxury aesthetic
+
+FLORAL DECOR:
+• Krishna Kamal flowers naturally decorating mural edges
+• Hanging floral vines around wall corners
+• Purple-blue petals softly illuminated
+• Elegant botanical detailing
+• Organic floral placement
+• Foreground flowers softly blurred
+• Fallen petals scattered naturally near floor
+• Realistic flower texture
+• Soft floral depth layering
+• Delicate devotional aesthetics
+
+VIRAL CINEMATIC ELEMENTS:
+• White cinematic smoke haze near ground
+• Floating illuminated dust particles
+• Tiny glowing spiritual particles
+• Soft white butterflies flying subtly
+• Warm cinematic bloom
+• Light rays near mural
+• Delicate volumetric atmosphere
+• Dreamy devotional haze
+• Elegant cinematic lens glow
+• Smooth environmental layering
+• Realistic air depth
+• Warm sunlight diffusion
+• Natural shadow transitions
+• Atmospheric realism
+• Soft sacred energy feel
+
+LIGHTING:
+• Warm golden-hour daylight
+• Cinematic sunlight entering from side
+• Soft HDR contrast
+• Premium exposure balance
+• Glossy realistic skin highlights
+• Soft rim light around hair and shoulders
+• Smooth shadow gradients
+• Volumetric light rays near Shiva mural
+• Natural Indian sunlight warmth
+• Editorial fashion lighting realism
+• Soft spiritual glow effect
+• Cinematic tonal depth
+• Balanced highlights and shadows
+
+CAMERA & DEPTH:
+• Nikon Z9 DSLR realism
+• 85mm f/1.2 portrait lens simulation
+• Slight cinematic low-angle framing
+• Razor-sharp facial detailing
+• Extreme skin texture realism
+• Ultra creamy background blur
+• Strong foreground-background separation
+• Cinematic depth compression
+• Foreground flowers heavily blurred naturally
+• DSLR-quality subject isolation
+• Rich optical realism
+• Premium cinematic focus falloff
+• Natural lens behavior
+• Luxury portrait rendering
+
+PHOTO EDITING STYLE:
+• Premium Bollywood editorial photography
+• High-end luxury Photoshop compositing
+• Ultra-realistic devotional storytelling
+• Luxury Instagram poster aesthetic
+• Rich earthy cinematic grading
+• Smooth premium retouching
+• Hyper-real skin detailing
+• Elegant mural integration
+• Professional color harmony
+• Sophisticated Indian spiritual fashion aesthetic
+• Cinematic emotional realism
+• Premium social-media visual appeal
+• Vogue-style devotional portrait mood
+
+COLOR PALETTE:
+• Pure white fabric tones
+• Warm beige architecture
+• Shiva blue-grey mural accents
+• Krishna Kamal purple-blue flowers
+• Warm golden sunlight glow
+• Soft earthy shadows
+• Creamy skin tones
+• Calm spiritual harmony
+• Elegant cinematic contrast
+• Rich luxury tonal balance
+
+TEXTURE DETAILS:
+• Natural skin pores visible
+• Realistic cotton fabric fibers
+• Matte wall texture
+• Authentic mural paint texture
+• Dust particle realism
+• Smooth realistic reflections
+• Subtle environmental imperfections
+• Rich depth realism
+• Organic cinematic detail layering
+
+QUALITY SETTINGS:
+Ultra-high-resolution 8K masterpiece, hyper-realistic, photorealistic, DSLR-quality rendering, intricate detailing, macro-level sharpness, cinematic HDR, professional color grading, polished luxury aesthetic, razor-sharp facial features, natural skin texture, volumetric lighting, realistic reflections, ultra-clean rendering, noise-free image, premium editorial quality, cinematic depth realism, crystal-clear focus, masterpiece composition, luxury fashion photography realism.
+
+NEGATIVE PROMPT:
+female subject, identity inconsistency, different face, face distortion, blurry face, low quality skin, unrealistic mural, cartoon Shiva, fake painting texture, AI artifacts, extra limbs, extra fingers, duplicated body parts, unrealistic flowers, noisy textures, oversaturated colors, flat lighting, bad anatomy, warped perspective, bad proportions, watermark, text artifacts, overexposed highlights, underexposed shadows, unrealistic smoke, low-detail environment, plastic skin, fake fabric folds, poor composition, cropped feet, deformed hands, blurry foreground, messy background, anime style, CGI look, low realism`
 
   }
 
