@@ -2,7 +2,8 @@ const prompts = [
 
 
     
-  // {
+
+  
 
 
 
@@ -21,7 +22,7 @@ const prompts = [
 
   // }
 
-  // ,
+  ,
   {
 
     username: "Rushi",
@@ -66,10 +67,7 @@ NEGATIVE PROMPT: female subject, blurry image, low-quality background, distorted
 
   }
 
-
-
-
-
+,
 
 {
 
