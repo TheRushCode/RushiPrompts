@@ -1494,7 +1494,74 @@ female subject, different face between frames, identity inconsistency, blurry fa
     time: "",
     likes: "",
     image: "images/prompt15.png",
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `You are a world-class cinematic portrait artist and luxury Photoshop compositor.
+
+TASK:
+Create a dreamy emotional birthday collage portrait in 4:5 ratio with fog aesthetics and ultra-realistic editorial realism.
+
+SUBJECT:
+Use uploaded face with exact facial accuracy.
+
+MAIN SUBJECT:
+• Sitting calmly on marble staircase
+• Looking sideways softly
+• One knee raised naturally
+• Hands relaxed around knee
+• Peaceful emotional expression
+
+OUTFIT:
+• Matte-white kurta
+• Ivory dhoti
+• Barefoot
+• Soft premium fabric folds
+
+COLLAGE COMPOSITION:
+• Large center portrait
+• 3 floating portrait frames around
+• Semi-transparent monochrome background portrait
+• Torn-paper scrapbook edges
+• Luxury editorial layering
+
+BACKGROUND:
+• Ultra-realistic foggy palace environment
+• White smoke atmosphere
+• Soft blurred pillars and plants
+• Creamy DSLR bokeh depth
+
+NEON FEATHER EFFECT:
+• White glowing mor pankh drifting through frame
+• Feather glow reflections on outfit
+• Floating feather dust particles
+• Soft luminous trails
+
+VIRAL ELEMENTS:
+• Tiny glowing butterflies
+• White spark particles
+• Cinematic haze
+• Lens flare bloom
+• Soft volumetric atmosphere
+
+TEXT:
+“Rushi”
+minimal luxury handwritten typography
+
+LIGHTING:
+• Soft white cinematic lighting
+• HDR realistic highlights
+• Smooth creamy shadows
+• Bright luxury exposure
+
+CAMERA:
+• Canon EOS R5 simulation
+• 50mm cinematic lens
+• Razor-sharp face detailing
+• Ultra creamy blur
+
+QUALITY:
+Ultra-realistic 4K ultra HD, 8K resolution, cinematic HDR lighting, luxury editorial realism
+
+NEGATIVE:
+low quality, cartoon atmosphere, fake smoke`
   }
   ,
   {
