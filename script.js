@@ -2,7 +2,7 @@ const prompts = [
 
 
     
-  {
+  // {
 
 
 
@@ -15,11 +15,56 @@ const prompts = [
 
   //   likes: "",
 
-  //   image: "images/prompt18.png",
+  //   image: "images/prompt20.png",
 
   //   prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
   // }
+
+  // ,
+  {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/prompt19.png",
+
+    prompt: `You are a world-class cinematic motorcycle portrait photographer, luxury AI visual artist, and elite Photoshop compositor. Follow ALL instructions precisely.
+
+TASK: Create an ultra-premium cinematic motorcycle portrait poster in 4:5 vertical ratio with emotional storytelling, luxury editorial aesthetics, dreamy scrapbook layering, and ultra-realistic 8K DSLR-quality rendering designed for viral Instagram engagement.
+
+SUBJECT: Use uploaded face with 100% facial accuracy. Young stylish Indian male with fluffy textured hairstyle, calm masculine aura, naturally attractive facial features, and confident emotional expression.
+
+MAIN SUBJECT (FOREGROUND): • Full-body portrait standing beside luxury motorcycle • Leaning softly against bike naturally • Both hands inside pockets • Looking toward left side away from camera • Calm emotional masculine posture • Relaxed cinematic standing pose • Slight candid street-style vibe • Wind softly moving shirt naturally
+
+OUTFIT: • Oversized charcoal-grey shirt with rolled sleeves • Matte black relaxed trousers • White premium sneakers • Thin silver bracelet • Realistic luxury fabric folds and stitching • Slight glossy reflections on outfit edges
+
+MOTORCYCLE: • Premium matte-grey retro motorcycle • Clean cinematic detailing • Luxury metallic reflections • Realistic tire textures and chrome highlights • Elegant modern-classic styling • Strong editorial framing beside subject
+
+BACKGROUND SUBJECT: • Massive semi-transparent monochrome portrait behind foreground • Upper-body close-up composition • Looking opposite direction emotionally • Soft calm expression • Black-and-white cinematic treatment • Smooth dreamy fade integration into background • Luxury editorial layering • Slight fog overlay around portrait edges
+
+BACKGROUND: • Ultra-realistic 4K outdoor environment • Luxury tree-lined street atmosphere • Soft blurred greenery and road depth • Warm cinematic daylight • Creamy DSLR bokeh background • Smooth environmental depth • Noise-free HDR rendering • Slight moody overcast aesthetic
+
+VIRAL VISUAL ELEMENTS: • White cinematic smoke haze near ground • Floating dust particles • Soft light bloom through trees • Subtle lens flare glow • Tiny atmospheric spark particles • Smooth dreamy haze ribbons • Foreground blur depth • Elegant vignette edges • Warm cinematic environmental glow
+
+SCRAPBOOK & EDITORIAL EFFECTS: • Semi-transparent portrait layering • Smooth cinematic fade blending • Minimal luxury editorial composition • Soft paper-grain texture • High-end fashion poster aesthetic • Emotional storytelling atmosphere
+
+LIGHTING: • Soft cinematic natural daylight • Smooth HDR realistic contrast • Warm glossy skin highlights • Bright premium exposure balance • Delicate rim light around subject • Soft realistic shadow gradients • Volumetric light rays filtering through trees • Luxury editorial fashion lighting setup
+
+CAMERA & DEPTH: • Nikon Z9 DSLR simulation • 85mm f/1.2 portrait lens • Razor-sharp face and outfit detailing • Ultra creamy cinematic background blur • Strong foreground-background separation • Professional depth layering • Foreground motorcycle ultra detailed • Background portrait softly faded naturally
+
+PHOTO EDITING STYLE: • Luxury cinematic motorcycle portrait • Premium Photoshop compositing • Emotional editorial storytelling • High-end Instagram aesthetic • Pinterest-worthy premium realism • Smooth professional retouching • Ultra-clean blending and masking • Moody cinematic color grading
+
+COLOR PALETTE: • Matte grey tones • Soft forest-green background • White sneaker highlights • Charcoal-black contrast • Warm daylight glow • Smooth cinematic harmony
+
+QUALITY: High-resolution 4K masterpiece background, photorealistic, hyper-detailed textures, intricate sharpness, extreme macro detail, 8K UHD, film grain removed, deep color depth, professionally color graded, cinematic lighting, sharp focus, ultra-high definition, clear facial features, refined edges, natural skin texture, masterpiece quality, volumetric lighting, HDR, DSLR-quality photography, razor-sharp details, realistic reflections, polished luxury aesthetic, noise-free image
+
+NEGATIVE PROMPT: female subject, blurry image, low-quality background, distorted anatomy, fake motorcycle details, oversaturated colors, cartoon look, noisy textures, duplicate body parts, watermark, text artifacts, full bike not visible`
+
+  }
 
 
 
