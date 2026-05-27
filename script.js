@@ -71,7 +71,7 @@ NEGATIVE PROMPT: female subject, blurry image, low-quality background, distorted
 
 
 
-
+{
 
 
     username: "Rushi",
