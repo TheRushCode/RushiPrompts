@@ -1870,9 +1870,89 @@ female subject, identity inconsistency, different face, face distortion, blurry 
 
     image: "images/prompt18.png",
 
-    prompt: `Watercolor artistic sketch portrait with floral background, ...`
+    prompt: `You are a world-class cinematic lifestyle photographer and luxury AI visual artist.
+
+TASK:
+Create a dreamy cinematic forest biker portrait with luxury outdoor aesthetics and ultra-realistic DSLR realism.
+
+SUBJECT:
+Use uploaded face with 100% facial accuracy.
+
+MAIN SUBJECT:
+• Leaning against dark-green bike
+• Arms crossed naturally
+• Looking downward softly
+• Calm aesthetic expression
+• Full body visible
+
+OUTFIT:
+• Olive-green oversized shirt
+• Black relaxed trousers
+• White sneakers
+• Minimal silver watch
+
+BACKGROUND:
+• Realistic forest road
+• Warm sunset filtering through trees
+• Soft greenery blur
+• Misty cinematic atmosphere
+
+5 PANEL COLLAGE:
+• Semi-transparent moss-green glass panels behind
+• Alternate poses:
+• laughing naturally
+• sitting on bike
+• close-up portrait
+• walking through forest
+• side silhouette
+• Organic reflective texture
+
+VIRAL ELEMENTS:
+• White glowing butterflies
+• Floating neon leaves
+• Warm pollen particles
+• Fog ribbons near ground
+• Tiny cinematic sparkles
+• Light leaks through trees
+
+LIGHTING:
+• Golden-hour forest lighting
+• Soft sunlight on face
+• Smooth HDR shadows
+• Warm rim lighting
+• Volumetric rays through trees
+
+CAMERA:
+• Sony Alpha DSLR simulation
+• 85mm portrait lens
+• Ultra creamy depth blur
+• Razor-sharp eyes
+
+QUALITY:
+High-resolution 4K masterpiece, photorealistic, hyper-detailed textures, cinematic lighting, HDR, luxury editorial realism
+
+NEGATIVE:
+fake trees, blur, low quality, distorted anatomy`
 
   }
+
+
+
+
+  // ,
+  // {
+
+  //   username: "Rushi",
+
+  //   time: "",
+
+  //   likes: "",
+
+  //   image: "images/prompt18.png",
+
+  //   prompt: `Watercolor artistic sketch portrait with floral background, ...`
+
+  // }
 
 
 
