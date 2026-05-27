@@ -1572,7 +1572,114 @@ low quality, cartoon atmosphere, fake smoke`
 
     likes: "",
 
-    image: "images/xyz.png",
+    image: "images/prompt16.png",
+
+    prompt: `You are a world-class cinematic birthday poster designer, luxury AI visual artist, and elite Photoshop compositor. Follow ALL instructions precisely.
+
+TASK:
+Create an ultra-premium spiritual birthday collage portrait in 4:5 vertical ratio with dreamy luxury aesthetics, glowing feather effects, emotional storytelling, and ultra-realistic 8K DSLR-quality rendering designed for viral Instagram engagement.
+
+SUBJECT:
+Use uploaded face with 100% facial accuracy.
+Young stylish Indian male with soft masculine facial features, calm emotional aura, naturally attractive smile, and elegant traditional appearance.
+
+MAIN SUBJECT:
+• Large full-body portrait standing center
+• Looking softly upward away from camera
+• One hand adjusting shawl naturally
+• Other hand relaxed beside body
+• Peaceful spiritual masculine posture
+• Slight candid smile
+• Wind softly moving outfit naturally
+
+OUTFIT:
+• Royal cream kurta
+• Golden embroidered stole
+• White dhoti
+• Barefoot
+• Minimal silver accessories
+• Luxury silk-cotton texture realism
+
+COLLAGE COMPOSITION:
+• 5 floating vertical glass-style panels
+• Different emotional candid poses inside
+• Some monochrome portraits
+• Some warm cinematic portraits
+• Semi-transparent layered composition
+• Smooth scrapbook-style blending
+
+BACKGROUND:
+• Ultra-realistic temple courtyard garden
+• Warm sunrise atmosphere
+• Soft blurred greenery
+• Creamy cinematic depth
+• Smooth HDR environmental rendering
+
+NEON FEATHER EFFECT:
+• Massive white glowing peacock feathers falling everywhere
+• Soft neon aura around feathers
+• Some feathers motion blurred naturally
+• Feather particle trails glowing softly
+• Volumetric white glow atmosphere
+
+VIRAL ELEMENTS:
+• White cinematic smoke
+• Floating spark particles
+• Tiny butterflies
+• Soft lens bloom
+• Dreamy haze ribbons
+• Foreground flower blur
+
+TEXT:
+“HAPPY BIRTHDAY Rushi”
+luxury glowing serif typography
+
+LIGHTING:
+• Warm sunrise cinematic lighting
+• Smooth HDR contrast
+• Glossy facial highlights
+• Bright premium exposure
+• Volumetric spiritual rays
+
+CAMERA:
+• Nikon Z9 DSLR simulation
+• 85mm f/1.2 lens
+• Razor-sharp detailing
+• Ultra creamy cinematic blur
+
+QUALITY:
+High-resolution 4K masterpiece, 8K UHD, cinematic HDR lighting, photorealistic textures, luxury DSLR realism
+
+NEGATIVE:
+female subject, blur, fake feathers, noisy textures`
+
+  }
+
+  ,
+  {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/prompt17.png",
+
+    prompt: ``
+
+  }
+
+  ,
+  {
+
+    username: "Rushi",
+
+    time: "",
+
+    likes: "",
+
+    image: "images/prompt18.png",
 
     prompt: `Watercolor artistic sketch portrait with floral background, ...`
 
